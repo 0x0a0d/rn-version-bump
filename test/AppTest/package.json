@@ -1,0 +1,8 @@
+{
+  "name": "XXXX",
+  "version": "2.0.4-1",
+  "private": true,
+  "jest": {
+    "preset": "react-native"
+  }
+}
